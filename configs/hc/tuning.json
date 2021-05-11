@@ -1,0 +1,7 @@
+{
+  "learning_rate": [0.0005, 0.0008, 0.0002],
+  "additional_activation": ["tanh", "relu"],
+  "supervision_mode": ["gv", "value", "gradient"],
+  "siren": [true, false],
+  "train_separate_offset": [true, false]
+}

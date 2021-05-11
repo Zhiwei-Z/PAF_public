@@ -1,0 +1,1 @@
+python launcher_scripts/execute.py -c configs/hc/base.json -t configs/hc/tuning.json -r 4 -p 4 -n tune_cheetah

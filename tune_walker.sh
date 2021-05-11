@@ -1,0 +1,1 @@
+python launcher_scripts/execute.py -c configs/walker/base.json -t configs/walker/tuning.json -r 4 -p 4 -n tune_walker

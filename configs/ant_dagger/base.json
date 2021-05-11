@@ -1,0 +1,5 @@
+{
+  "env_name": "ant",
+  "do_dagger": true,
+  "n_iter": 10
+}

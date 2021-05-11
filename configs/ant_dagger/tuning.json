@@ -1,0 +1,4 @@
+{
+  "learning_rate": [5e-2],
+  "additional_activation": ["tanh"]
+}

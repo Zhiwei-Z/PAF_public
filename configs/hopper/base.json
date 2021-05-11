@@ -1,0 +1,7 @@
+{
+  "env_name": "hopper",
+  "do_dagger": true,
+  "n_iter": 30,
+  "epsilon_s": 0.05,
+  "gradient_loss_scale": 0.1
+}

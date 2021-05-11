@@ -1,0 +1,11 @@
+{
+  "env_name": "ant",
+  "do_dagger": true,
+  "n_iter": 40,
+  "siren": true,
+  "learning_rate": 0.0005,
+  "supervision_mode": "gv",
+  "train_separate_params": true,
+  "epsilon_s": 0.05,
+  "gradient_loss_scale": 0.1
+}

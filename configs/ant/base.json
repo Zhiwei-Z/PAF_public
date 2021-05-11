@@ -1,0 +1,7 @@
+{
+  "env_name": "ant",
+  "do_dagger": true,
+  "n_iter": 20,
+  "epsilon_s": 0.05,
+  "gradient_loss_scale": 0.1
+}
